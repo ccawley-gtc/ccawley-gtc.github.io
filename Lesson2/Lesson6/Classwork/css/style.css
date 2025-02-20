@@ -1,0 +1,49 @@
+/* Moblile */
+@media only screen and (min-width: 480px) {
+    body {
+        background-color: rgb(230, 186, 173)
+    }
+    h1{font-size: small;}
+}
+/* Tablet */
+@media only screen and (min-width: 768px) {
+    body {
+        background-color: rgb(227, 241, 21)
+    }
+    h1{font-size: large;}
+}
+/* Desktop */
+@media only screen and (min-width: 992px) {
+    body {
+        background-color: rgb(22,25,240)
+    }
+    h1{font-size: xx-large;}
+}
+/* Really Big */
+@media only screen and (min-width: 1280px) {
+    body {
+        background-color: rgb(61,66,68)
+    }
+}
+
+h1 {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+
+p {
+    background-color: azure;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
