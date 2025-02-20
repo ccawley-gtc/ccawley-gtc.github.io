@@ -1,2 +1,2 @@
 # ccawley-gtc.github.io
-use for school
+Repository for WebDesign course work
